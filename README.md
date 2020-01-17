@@ -12,12 +12,12 @@
 - Si vous souhaitez lier à une base de données, créer votre fichier d'initialisation dans le dossier inc.
 - Les articles apparaissent en "dur"  dans notre index, veuillez les remplacer par les vôtres.
 
-> Ajout de notre GIF [![LES FAVORIS  SELON MOI](https://media.giphy.com/media/L9axNxZzC3SPC/giphy.gif)]())
+> Ajout de notre GIF [![LES FAVORIS  SELON MOI](https://media.giphy.com/media/GHcm2aWIczatG/giphy.gif)]()
 
 ## Table des matières
 
 - [Explication](#explication)
-- [Remerciemenrs](#remerciements)
+- [Remerciements](#remerciements)
 
 ---
 ## Explication
